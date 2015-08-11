@@ -1,0 +1,4 @@
+{
+    "target": "python_exec",
+    "selector": "source.python"
+}
